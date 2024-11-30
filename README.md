@@ -8,13 +8,13 @@ AoS Glass Cannon turns the game into a brutal journey, where Soma can die in as 
 - CRC32: 35536183
 
 ### How to apply the patch: 
-1) Click on "Aria of Sorrow - Glass Cannon 1.0.3.ips" in the file list above.
+1) Click on "Aria of Sorrow - Glass Cannon 1.0.3.1.ips" in the file list above.
 2) Click "View raw" to download the file.
 3) Go to [ROM Patcher JS.](https://romhacking.net/patch)
 4) Next to "ROM file," select "Choose File."
 5) Locate your unmodified Castlevania: Aria of Sorrow ROM, make sure it's hashes match the listed ones above, and upload it to the site.
 6) Next to "Patch file," select "Choose File."
-7) Locate "Aria of Sorrow - Glass Cannon 1.0.3.ips" file and upload it to the site.
+7) Locate "Aria of Sorrow - Glass Cannon 1.0.3.1.ips" file and upload it to the site.
 8) Select "Patch." The patched ROM will be downloaded automatically.
 
 Version 1.0.2 can be downloaded [here.](https://www.romhacking.net/hacks/8209/)
@@ -144,3 +144,5 @@ Version 1.0.2 can be downloaded [here.](https://www.romhacking.net/hacks/8209/)
     * Added a boss door to the Balmung room's entrance that blocks it until Balore is defeated.  
     * Buffed Satan's Ring.  
     * Fixed the Chaos fight and the Chaotic Realm warp room.  
+- 1.0.3.1:
+    * Fixed the positioning of the Dance Hall boss door, placed before the Skeleton Blaze gate.  
