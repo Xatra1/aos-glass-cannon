@@ -22,7 +22,7 @@ Version 1.0.2 can be downloaded [here.](https://www.romhacking.net/hacks/8209/)
 ## Full changelog (spoilers!):
 
 ### Stat Changes:  
-* All enemies have their attack incrased to 80, with the exception of Balore, whose attack has been reduced to 50, and Altair, which has 255 attack.  
+* All enemies have their attack increased to 80, with the exception of Balore, whose attack has been reduced to 50, and Altair, which has 255 attack.  
 * All equippable items have a debuff of -50 CON.  
 * All armor and some accessories now increase STR instead of DEF.  
 * Broadsword, Scimitar, Claymore, Great Sword, Joyeuse, Dainslef, Tallhammer, and Ascalon now have their attack animations interrupted when landing.  
