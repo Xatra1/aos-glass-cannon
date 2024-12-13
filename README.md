@@ -14,7 +14,7 @@ AoS Glass Cannon turns the game into a brutal journey, where Soma can die in as 
 4) Next to "ROM file," select "Choose File."
 5) Locate your unmodified Castlevania: Aria of Sorrow ROM, make sure it's hashes match the listed ones above, and upload it to the site.
 6) Next to "Patch file," select "Choose File."
-7) Locate "Aria of Sorrow - Glass Cannon 1.0.3.1.ips" file and upload it to the site.
+7) Locate the "Aria of Sorrow - Glass Cannon 1.0.3.1.ips" file and upload it to the site.
 8) Select "Patch." The patched ROM will be downloaded automatically.
 
 Version 1.0.2 can be downloaded [here.](https://www.romhacking.net/hacks/8209/)
